@@ -52,5 +52,5 @@ Our research covers, but is not limited to:
 > *Perceive the world. Understand the action. Embody intelligence.*
 
 **JLU Humanoid Robot and CV Lab**
-College of Artificial Intelligence, Jilin University
+The School of Artificial Intelligence, Jilin University
 Changchun, China 🇨🇳
