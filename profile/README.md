@@ -1,6 +1,6 @@
-# 👋 Hi, We Are JLU Humanoid Robot and CV Lab!
+# 👋 Hi, We Are Humanoid Robot and CV Lab!
 
-We are the **JLU Humanoid Robot and CV Lab**, a research group from the **College of Artificial Intelligence, Jilin University**, led by **[Dr. Yixing Gao](YOUR_ADVISOR_HOMEPAGE_URL)**.
+We are the **Humanoid Robot and CV Lab**, a research laboratory from **The School of Artificial Intelligence, Jilin University**, led by **[Dr. Yixing Gao](YOUR_ADVISOR_HOMEPAGE_URL)**.
 
 Our research lies at the intersection of **Computer Vision, Robotics, and Embodied AI**. We are passionate about enabling robots to perceive, understand, and interact with the world through intelligent learning-based methods.
 
@@ -10,12 +10,12 @@ We focus on developing intelligent robotic systems that can understand complex e
 
 Our research interests include:
 
-* 🤖 **Robot Perception** — Understanding and perceiving the environment through visual and multimodal information.
+* 🤖 **Perception** — Understanding and perceiving the environment through visual and multimodal information.
 * 🧥 **Deformable Object Manipulation** — Learning to grasp, manipulate, and fold flexible objects such as garments and fabrics.
 * 🎯 **Semantic Segmentation** — Developing visual understanding methods for robotic perception and scene understanding.
-* 🎬 **Video Action Generation** — Generating action-centric videos to model and learn robotic interactions.
-* 🧠 **Vision-Language-Action (VLA) Models** — Connecting visual observations, language instructions, and robotic actions.
-* 🌍 **World Models** — Learning predictive models of the physical world to support robot planning, reasoning, and decision-making.
+* 🎬 **Action Generation** — Generating action-centric videos to model and learn robotic interactions.
+* 🧠 **Vision-Language-Action Model** — Connecting visual observations, language instructions, and robotic actions.
+* 🌍 **World Model** — Learning predictive models of the physical world to support robot planning, reasoning, and decision-making.
 
 ## 🚀 Our Mission
 
