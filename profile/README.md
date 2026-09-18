@@ -42,8 +42,8 @@ Our research covers, but is not limited to:
 * Robot perception and manipulation
 * Computer vision and deep learning
 * Generative models and video understanding
-* Vision-language-action models
-* World models and embodied intelligence
+* Vision-Language-Action models
+* World models
 
 📩 **Feel free to reach out to us and explore research opportunities.**
 
@@ -52,5 +52,6 @@ Our research covers, but is not limited to:
 > *Perceive the world. Understand the action. Embody intelligence.*
 
 **JLU Humanoid Robot and CV Lab**
+
 The School of Artificial Intelligence, Jilin University
 Changchun, China 🇨🇳
