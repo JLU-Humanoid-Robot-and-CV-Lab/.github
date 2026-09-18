@@ -10,8 +10,8 @@ We focus on developing intelligent robotic systems that can understand complex e
 
 Our research interests include:
 
-* 🤖 **Perception** — Understanding and perceiving the environment through visual and multimodal information.
-* 🧥 **Deformable Object Manipulation** — Learning to grasp, manipulate, and fold flexible objects such as garments and fabrics.
+* 🤖 **Perception** — Understanding and perceiving the environment through multimodal information.
+* 🧥 **Deformable Object Manipulation** — Learning to grasp, manipulate, and fold flexible objects such as garments.
 * 🎯 **Semantic Segmentation** — Developing visual understanding methods for robotic perception and scene understanding.
 * 🎬 **Action Generation** — Generating action-centric videos to model and learn robotic interactions.
 * 🧠 **Vision-Language-Action Model** — Connecting visual observations, language instructions, and robotic actions.
